@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 0
 CreationTime: 1722841293
-ModificationTime: 1723211540
+ModificationTime: 1723647225
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -137,13 +137,12 @@ MATH:RadicalKernAfterDegree: -600
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 20
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 600 25 9
+WinInfo: 8975 25 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -154,7 +153,7 @@ Grid
  271.999969482 -1434 l 1024
   Named: "sum"
 EndSplineSet
-BeginChars: 1114454 2270
+BeginChars: 1114454 2272
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -107846,6 +107845,56 @@ SplineSet
  1067 933 1067 933 1028 933 c 0,83,84
  1010 933 1010 933 924 1013 c 1,85,86
  873 1053 873 1053 816 1105 c 1,19,-1
+EndSplineSet
+EndChar
+
+StartChar: angleleft
+Encoding: 9001 9001 2270
+Width: 416
+Flags: W
+GlyphVariantsVertical: angleleft mathematicalleftanglebracket.s1 mathematicalleftanglebracket.s2 mathematicalleftanglebracket.s3 mathematicalleftanglebracket.s4 mathematicalleftanglebracket.s5 mathematicalleftanglebracket.s6
+LayerCount: 2
+Fore
+SplineSet
+377 1372 m 1,0,1
+ 411 1350 411 1350 398 1310 c 2,2,-1
+ 102 443 l 2,3,4
+ 85 394 85 394 40 410 c 1,5,6
+ 5 432 5 432 19 472 c 2,7,-1
+ 314 1339 l 2,8,9
+ 331 1388 331 1388 377 1372 c 1,0,1
+377 -475 m 1,10,11
+ 331 -491 331 -491 314 -442 c 2,12,-1
+ 19 425 l 2,13,14
+ 5 465 5 465 40 487 c 1,15,16
+ 85 503 85 503 102 454 c 2,17,-1
+ 398 -413 l 2,18,19
+ 411 -453 411 -453 377 -475 c 1,10,11
+EndSplineSet
+EndChar
+
+StartChar: angleright
+Encoding: 9002 9002 2271
+Width: 416
+Flags: W
+GlyphVariantsVertical: angleright mathematicalrightanglebracket.s1 mathematicalrightanglebracket.s2 mathematicalrightanglebracket.s3 mathematicalrightanglebracket.s4 mathematicalrightanglebracket.s5 mathematicalrightanglebracket.s6
+LayerCount: 2
+Fore
+SplineSet
+40 1372 m 1,0,1
+ 5 1350 5 1350 19 1310 c 2,2,-1
+ 314 443 l 2,3,4
+ 331 394 331 394 377 410 c 1,5,6
+ 411 432 411 432 398 472 c 2,7,-1
+ 102 1339 l 2,8,9
+ 85 1388 85 1388 40 1372 c 1,0,1
+40 -475 m 1,10,11
+ 85 -491 85 -491 102 -442 c 2,12,-1
+ 398 425 l 2,13,14
+ 411 465 411 465 377 487 c 1,15,16
+ 331 503 331 503 314 454 c 2,17,-1
+ 19 -413 l 2,18,19
+ 5 -453 5 -453 40 -475 c 1,10,11
 EndSplineSet
 EndChar
 EndChars
