@@ -1,3 +1,5 @@
+![屏幕截图 2024-11-07 232227](https://github.com/user-attachments/assets/138d69a1-b862-4bf4-8963-88ff09b8b161)  
+  
 # CEF Fonts Mathematique 数学字体  
   
 ### Introduction 介绍  
@@ -19,8 +21,8 @@ CEF Fonts Mathematique 是一个支持显示数学公式的数学字体。所使
 -  [ ] Other mathematical operators & symbols 其它数学符号
   
 ### Warning!!! 警告！  
-Top accents cannot be aligned with all constants or variables neatly. This will be fixed in a later version.  
-记号并不能与下方所有的常数或变量对齐。这个问题会在将来的一个版本解决。
+Currently, this font cannot display chemical equations.  
+此字体目前尚不支持化学方程式。  
   
 ### License 许可协议  
 This font is licensed under SIL Open Font License V1.1. Please read [this](http://scripts.sil.org/OFL) for more information.  
@@ -37,3 +39,4 @@ If you want to modify this font, please use `Fontforge` to open the `.sfd` file,
 若想修改字体文件，请使用`Fontforge`打开里面的`.sfd`文件以开始编辑。  
 Please test it in `Microsoft Word` for better experience.  
 推荐使用 `Microsoft Word` 测试本字体。    
+
